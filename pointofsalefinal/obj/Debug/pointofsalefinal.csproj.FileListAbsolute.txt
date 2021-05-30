@@ -1,0 +1,16 @@
+c:\users\arlenejimmy\documents\visual studio 2015\Projects\pointofsalefinal\pointofsalefinal\bin\Debug\pointofsalefinal.exe.config
+c:\users\arlenejimmy\documents\visual studio 2015\Projects\pointofsalefinal\pointofsalefinal\bin\Debug\pointofsalefinal.exe
+c:\users\arlenejimmy\documents\visual studio 2015\Projects\pointofsalefinal\pointofsalefinal\bin\Debug\pointofsalefinal.pdb
+c:\users\arlenejimmy\documents\visual studio 2015\Projects\pointofsalefinal\pointofsalefinal\obj\Debug\pointofsalefinal.Form1.resources
+c:\users\arlenejimmy\documents\visual studio 2015\Projects\pointofsalefinal\pointofsalefinal\obj\Debug\pointofsalefinal.Properties.Resources.resources
+c:\users\arlenejimmy\documents\visual studio 2015\Projects\pointofsalefinal\pointofsalefinal\obj\Debug\pointofsalefinal.csproj.GenerateResource.Cache
+c:\users\arlenejimmy\documents\visual studio 2015\Projects\pointofsalefinal\pointofsalefinal\obj\Debug\pointofsalefinal.exe
+c:\users\arlenejimmy\documents\visual studio 2015\Projects\pointofsalefinal\pointofsalefinal\obj\Debug\pointofsalefinal.pdb
+c:\users\arlenejimmy\documents\visual studio 2015\Projects\pointofsalefinal\pointofsalefinal\obj\Debug\pointofsalefinal.reg.resources
+c:\users\arlenejimmy\documents\visual studio 2015\Projects\pointofsalefinal\pointofsalefinal\obj\Debug\pointofsalefinal.main.resources
+C:\Users\ArleneJimmy\documents\visual studio 2015\Projects\pointofsalefinal\pointofsalefinal\obj\Debug\pointofsalefinal.csprojResolveAssemblyReference.cache
+C:\Users\ArleneJimmy\documents\visual studio 2015\Projects\pointofsalefinal\pointofsalefinal\obj\Debug\pointofsalefinal.customer.resources
+C:\Users\ArleneJimmy\documents\visual studio 2015\Projects\pointofsalefinal\pointofsalefinal\obj\Debug\pointofsalefinal.inventory.resources
+C:\Users\ArleneJimmy\documents\visual studio 2015\Projects\pointofsalefinal\pointofsalefinal\obj\Debug\pointofsalefinal.imployee.resources
+C:\Users\ArleneJimmy\documents\visual studio 2015\Projects\pointofsalefinal\pointofsalefinal\obj\Debug\pointofsalefinal.product.resources
+C:\Users\ArleneJimmy\documents\visual studio 2015\Projects\pointofsalefinal\pointofsalefinal\bin\Debug\MySql.Data.dll
